@@ -9,7 +9,7 @@
 
  ### Anime?
  ###
-<a href=" https://shikimori.one/Feelogil"><img src="https://kawai.shikimori.one/system/application/x160/31.png?1538318749" class="css-9pa8cd" height="30" border="0"></a>
+<a href="https://shikimori.one/Feelogil"><img src="https://kawai.shikimori.one/system/application/x160/31.png?1538318749" class="css-9pa8cd" height="30" border="0"></a>
 <a href="https://kitsu.io/users/Feelogil"><img src="https://kitsu.io/android-chrome-192x192-6b1404d91a423ea12340f41fc320c149.png"  height="30" border="0"></a>
 <!--
 <a href="https://steamladder.com/profile/76561198430297687/"><img src="https://s.steamladder.com/static/img/new_logo.png" height="33"  border="0"></a>
