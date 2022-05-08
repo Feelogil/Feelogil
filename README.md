@@ -3,8 +3,8 @@
 </div>
 
 <div align="justify">
- <a href="https://t.me/Feelogil"><img src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/telegram.png" width="48"></a>
- <a href="https://anilist.co/user/Feelogil"><img src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/anilist.png" width="48"></a>
+ <a href="https://t.me/Feelogil"><img src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/256/telegram.png" width="48"></a>
+ <a href="https://anilist.co/user/Feelogil"><img src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/256/anilist.png" width="48"></a>
 </div>	
  
  
